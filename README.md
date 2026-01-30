@@ -71,7 +71,7 @@ Matplotlib / Seaborn / Plotly (dependendo do gráfico utilizado)
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/jmarcosaraujo/Construindo-um-Dashboard-com-Streamlit-Python.git
 
 2. Acesse a pasta do projeto:
 
@@ -133,3 +133,4 @@ Este repositório é voltado para aprendizado e prática, servindo como base par
 
 
 Sinta-se à vontade para explorar, modificar e evoluir o projeto 🚀
+
