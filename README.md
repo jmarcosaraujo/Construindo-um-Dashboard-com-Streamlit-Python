@@ -60,10 +60,13 @@ Matplotlib / Seaborn / Plotly (dependendo do gráfico utilizado)
 
 ## 📂 Estrutura do Projeto
 
-├── app.py               # Arquivo principal do Streamlit
-├── data/                # Base de dados utilizada no projeto
-├── requirements.txt     # Dependências do projeto
-└── README.md            # Documentação
+├── app.py               #Arquivo principal do Streamlit
+
+├── data/                #Base de dados utilizada no projeto
+
+├── requirements.txt     #Dependências do projeto
+
+└── README.md            #Documentação
 
 ---
 
@@ -133,4 +136,5 @@ Este repositório é voltado para aprendizado e prática, servindo como base par
 
 
 Sinta-se à vontade para explorar, modificar e evoluir o projeto 🚀
+
 
