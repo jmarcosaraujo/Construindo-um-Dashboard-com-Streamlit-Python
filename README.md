@@ -16,6 +16,14 @@ O dashboard está disponível online e pode ser acessado diretamente pelo navega
 
 ---
 
+![Imagem](Dashboard%20de%20análise%20de%20salários%20de%20dados.jpg)
+
+---
+
+![Imagem](dados%20detalhados.jpg)
+
+---
+
 ## 🎯 Objetivos do Projeto
 
 Aprender a utilizar a biblioteca Streamlit
@@ -59,7 +67,7 @@ Matplotlib / Seaborn / Plotly (dependendo do gráfico utilizado)
 ---
 
 ## 📂 Estrutura do Projeto
-
+```
 ├── app.py               #Arquivo principal do Streamlit
 
 ├── data/                #Base de dados utilizada no projeto
@@ -67,11 +75,11 @@ Matplotlib / Seaborn / Plotly (dependendo do gráfico utilizado)
 ├── requirements.txt     #Dependências do projeto
 
 └── README.md            #Documentação
-
+```
 ---
 
 ## ▶️ Como Executar o Projeto Localmente
-
+```
 1. Clone este repositório:
 
 git clone https://github.com/jmarcosaraujo/Construindo-um-Dashboard-com-Streamlit-Python.git
@@ -79,25 +87,25 @@ git clone https://github.com/jmarcosaraujo/Construindo-um-Dashboard-com-Streamli
 2. Acesse a pasta do projeto:
 
 cd seu-repositorio
-
+```
 3. Crie um ambiente virtual (opcional, mas recomendado):
-
+```
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
-
+```
 4. Instale as dependências:
-
+```
 pip install -r requirements.txt
-
+```
 5. Execute a aplicação:
-
+```
 streamlit run app.py
-
+```
 6. Abra o navegador no endereço:
-
+```
 http://localhost:8501
-
+```
 ---
 
 ## ☁️ Deploy da Aplicação
@@ -136,5 +144,6 @@ Este repositório é voltado para aprendizado e prática, servindo como base par
 
 
 Sinta-se à vontade para explorar, modificar e evoluir o projeto 🚀
+
 
 
